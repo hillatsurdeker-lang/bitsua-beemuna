@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="בנייה קלה">
+  <polyline points="10,54 50,14 90,54" fill="none" stroke="#2E6079" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="90" y1="54" x2="90" y2="88" stroke="#2E6079" stroke-width="5" stroke-linecap="round"/>
+  <line x1="8" y1="88" x2="96" y2="88" stroke="#2E6079" stroke-width="5" stroke-linecap="round"/>
+  <line x1="68" y1="58" x2="80" y2="58" stroke="#6CB418" stroke-width="5" stroke-linecap="round"/>
+  <line x1="80" y1="58" x2="80" y2="86" stroke="#6CB418" stroke-width="5" stroke-linecap="round"/>
+  <line x1="14" y1="34" x2="58" y2="34" stroke="#234C5E" stroke-width="5" stroke-linecap="round"/>
+  <line x1="14" y1="72" x2="58" y2="72" stroke="#234C5E" stroke-width="5" stroke-linecap="round"/>
+  <g stroke="#234C5E" stroke-width="4" stroke-linecap="round">
+    <line x1="22" y1="34" x2="22" y2="72"/>
+    <line x1="36" y1="34" x2="36" y2="72"/>
+    <line x1="50" y1="34" x2="50" y2="72"/>
+  </g>
+</svg>

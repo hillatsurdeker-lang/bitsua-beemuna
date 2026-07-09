@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="אינסטלציה">
+  <polyline points="10,54 50,14 90,54" fill="none" stroke="#2E6079" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="90" y1="54" x2="90" y2="88" stroke="#2E6079" stroke-width="5" stroke-linecap="round"/>
+  <line x1="8" y1="88" x2="96" y2="88" stroke="#2E6079" stroke-width="5" stroke-linecap="round"/>
+  <line x1="68" y1="58" x2="80" y2="58" stroke="#6CB418" stroke-width="5" stroke-linecap="round"/>
+  <line x1="80" y1="58" x2="80" y2="86" stroke="#6CB418" stroke-width="5" stroke-linecap="round"/>
+  <polyline points="16,68 16,40 38,40" fill="none" stroke="#234C5E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="44,44 38,57 50,57" fill="#6CB418"/>
+  <circle cx="44" cy="61" r="7" fill="#6CB418"/>
+</svg>
